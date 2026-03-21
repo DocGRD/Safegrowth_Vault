@@ -1,11 +1,12 @@
 SafeGrowth Vault
 Trust the Math, Not the Hardware.
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
+(https://img.shields.io/badge/status-pre--implementation-orange),
+(https://img.shields.io/badge/language-Go%201.24%2B-blue),
+(https://img.shields.io/badge/CGO-zero-green),
+(https://img.shields.io/badge/license-MIT-green),
+(https://img.shields.io/badge/crypto-post--quantum-purple),
+(https://img.shields.io/badge/tokens-none-brightgreen),
 
 ⚠️ Project Status: Fully Designed. Zero Code Yet.
 SafeGrowth Vault is a complete architecture looking for its engineers.
